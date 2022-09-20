@@ -1,0 +1,70 @@
+* {
+  font-family: "Press Start 2P", cursive;
+}
+
+body {
+  background-image: url("./images/galaxy-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  height: 100vh;
+}
+
+.searchBox {
+  color: white;
+  margin: auto;
+  width: 50vw;
+  padding: 10px;
+  text-align: center;
+  margin-top: -15px;
+}
+#search {
+  background-color: rgba(0, 0, 0, 0.481);
+  width: 5vw;
+  height: 6vh;
+  border: 2.5px solid white;
+  border-radius: 0.5em;
+}
+
+#pokemonName {
+  background-color: rgba(0, 0, 0, 0.481);
+  width: 40vw;
+  height: 5vh;
+  color: white;
+  border: 2.5px solid white;
+  border-radius: 0.5em;
+}
+
+.pokemonSpriteContainer {
+  background-image: url("./images/pokemon-background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.5em;
+  width: 49vw;
+  margin: auto;
+}
+
+.pokemonSprite {
+  width: 50vw;
+}
+
+.pokemonBox {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin: auto;
+  width: 50vw;
+  border-radius: 0.5em;
+}
+
+.pokemonInfo {
+  width: 49vw;
+
+  background-color: rgba(0, 0, 0, 0.481);
+  border-color: white;
+  border-radius: 0.5em;
+  margin: auto;
+  text-align: center;
+  font-size: 100%;
+}
