@@ -13,7 +13,7 @@ body {
 .searchBox {
   color: white;
   margin: auto;
-  width: 50vw;
+  width: 100vw;
   padding: 10px;
   text-align: center;
 }
@@ -21,16 +21,16 @@ body {
   background-color: rgba(0, 0, 0, 0.481);
   width: 5vw;
   height: 6vh;
-  border: 2.5px solid white;
+  border: 2.5px solid rgba(255, 255, 255, 0.604);
   border-radius: 0.5em;
 }
 
 #pokemonName {
   background-color: rgba(0, 0, 0, 0.481);
-  width: 40vw;
+  width: 75vw;
   height: 5vh;
   color: white;
-  border: 2.5px solid white;
+  border: 2.5px solid rgba(255, 255, 255, 0.604);
   border-radius: 0.5em;
 }
 
@@ -39,12 +39,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 0.5em;
-  width: 49vw;
+  width: 75vw;
   margin: auto;
 }
 
 .pokemonSprite {
-  width: 50vw;
+  width: 75vw;
 }
 
 .pokemonBox {
@@ -53,12 +53,12 @@ body {
   background-size: cover;
   color: white;
   margin: auto;
-  width: 50vw;
+  width: 75vw;
   border-radius: 0.5em;
 }
 
 .pokemonInfo {
-  width: 49vw;
+  width: 75vw;
 
   background-color: rgba(0, 0, 0, 0.481);
   border-color: white;
